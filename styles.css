@@ -101,7 +101,7 @@ p {
 .about {
   text-align: center;
 }
-.post-author img
+.post-author img,
 .about-author img {
  border-radius: 50%;
 }
